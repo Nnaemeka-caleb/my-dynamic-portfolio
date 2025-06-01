@@ -1,0 +1,38 @@
+[
+    {
+        "name": "My First HTML Page", 
+        "description": "A simple static page demonstrating basic HTML structure and elements with semantic markup and accessibility features.",
+        "link": "#",
+        "category": "frontend"
+    },
+    {
+        "name": "CSS Styling Practice",
+        "description": "Explored various CSS properties to style text, colors, layouts, and responsive design with Flexbox and Grid.",
+        "link": "#",
+        "category": "frontend"
+    },
+    {
+        "name": "Interactive JavaScript Fun",
+        "description": "Implemented basic JavaScript to add dynamic behavior, user interactions, and DOM manipulation features.",
+        "link": "#",
+        "category": "frontend"
+    },
+    {
+        "name": "Responsive Portfolio Website",
+        "description": "A fully responsive personal portfolio showcasing modern web development practices with animations and interactivity.",
+        "link": "#",
+        "category": "fullstack"
+    },
+    {
+        "name": "Dark Mode Toggle Feature",
+        "description": "Implemented a smooth dark/light mode toggle with local storage persistence and system preference detection.",
+        "link": "#",
+        "category": "frontend"
+    },
+    {
+        "name": "Dynamic Content Loading",
+        "description": "Built a system to dynamically load and display content from JSON files using modern JavaScript fetch API.",
+        "link": "#",
+        "category": "backend"
+    }
+]
